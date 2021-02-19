@@ -1,0 +1,13 @@
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.exe
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.deps.json
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.runtimeconfig.json
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.runtimeconfig.dev.json
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.dll
+C:\Users\vinic\csharpp\Dio.projUm\bin\Debug\netcoreapp3.1\Dio.projUm.pdb
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.csprojAssemblyReference.cache
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.AssemblyInfoInputs.cache
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.AssemblyInfo.cs
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.csproj.CoreCompileInputs.cache
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.dll
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.pdb
+C:\Users\vinic\csharpp\Dio.projUm\obj\Debug\netcoreapp3.1\Dio.projUm.genruntimeconfig.cache
